@@ -26,4 +26,4 @@ for i  in range(1,6):
 studlist.sort(reverse=True)
 print(studlist)
 
-# I couldn't send the Quiz4 because I was late :(
+#because of my being late, couldn't send the quiz4 :(
